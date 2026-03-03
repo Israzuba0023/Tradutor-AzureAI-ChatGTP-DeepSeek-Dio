@@ -1,0 +1,1 @@
+# Tradutor-AzureAI-ChatGTP-DeepSeek-Dio
